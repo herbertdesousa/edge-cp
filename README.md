@@ -9,7 +9,7 @@
 
 Programa desenvolvido com o objetivo de controlar a luminosidade na Vinheria Agnello, pois segundo o proprietário, a luminosidade no ambiente de armazenamento dos vinhos influencia diretamente em sua qualidade.
 
-[Link do Projeto no Tinkercard](https://www.tinkercad.com/things/gvSyFIMHZwM-pra-entregar-esta-funcionando/editel?sharecode=HYu4dwjkfa7DWXwSEFAYn0Lru4-eNZenU0cyYVeD5Ao )
+[Link do Projeto no Tinkercard](https://www.tinkercad.com/things/gvSyFIMHZwM-pra-entregar-esta-funcionando/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=-pFIORk0zyPLxdK8-ytcOBeX-F88Lum067xZ0cWMzkI)
 
 # Dependências do projeto
 
@@ -18,7 +18,7 @@ Programa desenvolvido com o objetivo de controlar a luminosidade na Vinheria Agn
 - *Arduino* 
 - *Buzzer*
 - *leds:* vermelho/amarelo/verde
-- *censores LDR:* 1 ou mais censores caso seja muito grande a área de análise para apenas 1 censor.
+- *sensores LDR:* 1 ou mais sensores caso seja muito grande a área de análise para apenas 1 sensor.
 - *jumpers*
 - *resistores*
 
@@ -29,7 +29,7 @@ Programa desenvolvido com o objetivo de controlar a luminosidade na Vinheria Agn
 *Porta do Buzzer:*
 - buzzer = 10
 *Porta do LDR:*
-- Censor LDR = Porta analógica 0
+- sensor LDR = Porta analógica 0
 
 
 
