@@ -2,6 +2,8 @@
 
 <h3> 
   💡 Controle de luminosidade
+
+      [Link do Tinkercad](https://www.tinkercad.com/things/gvSyFIMHZwM-pra-entregar-esta-funcionando/editel?returnTo=%2Fdashboard&sharecode=HYu4dwjkfa7DWXwSEFAYn0Lru4-eNZenU0cyYVeD5Ao )
 </h3>
 
 # Descrição do projeto:
