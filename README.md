@@ -1,14 +1,106 @@
+Skip to content
+herbertdesousa
+/
+edge-cp
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Editing README.md in edge-cp
+Breadcrumbsedge-cp
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
 # :black_circle: Checkpoint-1
 
 <h3> 
   💡 Controle de luminosidade
-
-      [Link do Tinkercad](https://www.tinkercad.com/things/gvSyFIMHZwM-pra-entregar-esta-funcionando/editel?returnTo=%2Fdashboard&sharecode=HYu4dwjkfa7DWXwSEFAYn0Lru4-eNZenU0cyYVeD5Ao )
 </h3>
+
 
 # Descrição do projeto:
 
 Programa desenvolvido com o objetivo de controlar a luminosidade na Vinheria Agnello, pois segundo o proprietário, a luminosidade no ambiente de armazenamento dos vinhos influencia diretamente em sua qualidade.
+
+[Link do Projeto no Tinkercard](https://www.tinkercad.com/things/gvSyFIMHZwM-pra-entregar-esta-funcionando/editel?sharecode=HYu4dwjkfa7DWXwSEFAYn0Lru4-eNZenU0cyYVeD5Ao )
 
 # Dependências do projeto
 
@@ -51,3 +143,8 @@ Programa desenvolvido com o objetivo de controlar a luminosidade na Vinheria Agn
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/161898042?v=4" width=115><br><sub>Eduardo Tomazela</sub>](https://github.com/du-ntomazela) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101646035?v=4" width=115><br><sub>Léo Massago</sub>](https://github.com/LeoMasago) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/162758896?v=4" width=115><br><sub>Luiz Henrique</sub>](https://github.com/LhenriqueTech) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/63599156?v=4" width=115><br><sub>Hebert Souza</sub>](https://github.com/herbertdesousa)
 | :---: | :---: | :---: | :---: |
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Nenhum arquivo escolhido
+Attach files by dragging & dropping, selecting or pasting them.
+Editing edge-cp/README.md at main · herbertdesousa/edge-cp 
